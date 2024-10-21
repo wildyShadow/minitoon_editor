@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/minitoon_editor/FileContentIndex
+/.vs/minitoon_editor/config
+/.vs/minitoon_editor/v17
+/.vs
