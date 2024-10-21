@@ -2663,7 +2663,7 @@ window._$V.prototype._$Z = function(e, b) {
             a.classList.add("mt-newdoc-cat-size-selected");
             if ("img"in a["dataset"]) {
                 var d = this._$al[b].querySelector(".mt-newdoc-cat-preview");
-                d["src"] = "minitoon_editor/assets/icons/" + a["dataset"]["img"] + ".png";
+                d["src"] = "/assets/icons/" + a["dataset"]["img"] + ".png";
             }
         } else {
             a.classList.remove("mt-newdoc-cat-size-selected");
